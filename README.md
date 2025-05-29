@@ -78,9 +78,5 @@ Phone Number: +44 7355820520
 <br>
  
 <div> 
-  <p align="center">
-    <a href="#"><img title="Snake animation" src="./img/snake.svg">
-    </a>
-  </p>
 </div>
 
