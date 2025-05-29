@@ -1,4 +1,6 @@
 ## Hi there 👋
+Email: andrewmellies92@outlook.com
+Phone Number: +44 7355820520
 
 <meta name="description" content="GitHub profile in green color">
 <meta name="keywords" content="Full Stack Developer, GitHub Stats, GitHub Profile, JavaScript, TypeScript, React, Nodejs, HTML5, CSS3, Bootstrap, Python, C#, C++, C, Java, PHP, PostgreSQL, MySQL, MongoDB"/>
@@ -74,13 +76,6 @@
 
 <br>
 <br>
-  
-<div> 
-  <p align="center">
-    <a href="https://www.linkedin.com/in/mfullstackdevleoper/"><img height="35" width="140" title="linkedin.com/in/mfullstackdevleoper" src="./img/linkedin.png">
-    </a>
-  </p>
-</div>
 
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=007acc&height=120&section=footer"/>
